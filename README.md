@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pheonix010
+- 👀 I’m interested in AI, ML and Full Stack
+- 🌱 I’m currently learning Java 
+- 💞️ I’m looking to collaborate on Full Stack
+- 📫 How to reach me : hrsiddiqui844.hr@gmail.com
